@@ -15,10 +15,10 @@ As a result we present a graph with the calibration duration.
 
 # In this repo you will find : 
 
--The main file
--The c++ file with the hardcoding of the Neural Net and the gradient
--The compilation output to use the code esealy 
--The config file for the c++ compilation if needed
+-The main file  
+-The c++ file with the hardcoding of the Neural Net and the gradient  
+-The compilation output to use the code esealy   
+-The config file for the c++ compilation if needed  
 
 # The youtube video :
 
