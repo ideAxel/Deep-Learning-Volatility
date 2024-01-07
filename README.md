@@ -29,7 +29,6 @@ ajouter le lien vers la vidéo
 
 https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/4e0719d4-3223-4d92-ae97-9e755f795aea
 
-#![Deeplearningvolatility](https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/ce06527e-3dc5-4787-a047-900c5d878714)
 
 # Config : 
 
