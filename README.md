@@ -24,7 +24,7 @@ https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/a15de6ae-53
 -The config file for the c++ compilation if needed  
 
 # The youtube video :
-ajouter le lien vers la vidéo 
+ajouter le lien de la vidéo 
 
 
 https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/4e0719d4-3223-4d92-ae97-9e755f795aea
