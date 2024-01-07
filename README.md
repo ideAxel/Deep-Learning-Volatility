@@ -4,6 +4,7 @@ To do list : Supprimer les fichiers superflus ; finir le readme ; passer la vid√
 
 
 The paper realase by Blanka Horvath; Aitor Muguruza and Mehdi Tomas is sujesting to use deep learning as a speed up for pricing.
+Neural networks efficiently approximate complex pricing functions offline, addressing calibration challenges in models with slow pricing. 
 
 In this repo we implement the paper with a c++ library to speed up the online pricing and we put the off-line learning phase in a time-laps 
 in order to visualise it.
