@@ -1,4 +1,5 @@
-To do list : Supprimer les fichiers superflus ; finir le readme ; passer la vidéo en publique. 
+To-do list: Delete unnecessary files; finish the readme; put the video in public
+
 
 # Deep-Learning-Volatility
 
