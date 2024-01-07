@@ -7,20 +7,12 @@ The paper realase by Blanka Horvath; Aitor Muguruza and Mehdi Tomas is sujesting
 
 In this repo we implement the paper with a c++ library to speed up the online pricing and we put the off-line learning phase in a time-laps 
 in order to visualise it.
+We present a graph with the calibration duration. 
 
 
 
-https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/4e0719d4-3223-4d92-ae97-9e755f795aea
+https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/a15de6ae-5365-4e7f-9d6c-f64074f1efc2
 
-
-
-
-
-we present a graph with the calibration duration. 
-
-
-
-https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/179063dc-e822-49eb-ba29-96f4b626dde9
 
 
 
@@ -32,8 +24,12 @@ https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/179063dc-e8
 -The config file for the c++ compilation if needed  
 
 # The youtube video :
+ajouter le lien vers la vidéo 
 
-![Deeplearningvolatility](https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/ce06527e-3dc5-4787-a047-900c5d878714)
+
+https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/4e0719d4-3223-4d92-ae97-9e755f795aea
+
+#![Deeplearningvolatility](https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/ce06527e-3dc5-4787-a047-900c5d878714)
 
 # Config : 
 
