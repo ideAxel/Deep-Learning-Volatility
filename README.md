@@ -9,7 +9,9 @@ In this repo we implement the paper with a c++ library to speed up the online pr
 in order to visualise it.
 
 
-https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/40753390-a5d0-48a6-a4e6-942781351d4a
+
+https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/4e0719d4-3223-4d92-ae97-9e755f795aea
+
 
 
 
