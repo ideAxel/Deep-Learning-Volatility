@@ -20,6 +20,10 @@ we present a graph with the calibration duration.
 
 
 
+https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/179063dc-e822-49eb-ba29-96f4b626dde9
+
+
+
 # In this repo you will find : 
 
 -The main file  
