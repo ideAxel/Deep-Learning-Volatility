@@ -1,17 +1,16 @@
+To do list : Supprimer les fichiers superflus ; finir le readme ; passer la vidéo en publique. 
+
 # Deep-Learning-Volatility
 
-Contact :
 
-
-The paper realase by  is sujesting to use  deep learning as a speed up for pricing.
+The paper realase by Blanka Horvath; Aitor Muguruza and Mehdi Tomas is sujesting to use deep learning as a speed up for pricing.
 
 In this repo we implement the paper with a c++ library to speed up the online pricing and we put the off-line learning phase in a time-laps 
 in order to visualise it.
 
 ![Deeplearningvolatility](https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/ce06527e-3dc5-4787-a047-900c5d878714)
 
-
-As a result we present a graph with the calibration duration. 
+we present a graph with the calibration duration. 
 
 
 
@@ -26,11 +25,16 @@ As a result we present a graph with the calibration duration.
 
 
 
+# Config : 
+
+
 # The orginal paper  : 
 
+[Link to Initial Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3322085)
 
-# Config : 
 
 # Licence :
 
 
+
+# Contact : 
