@@ -4,7 +4,7 @@ To-do list: Delete unnecessary files; finish the readme; put the video in public
 # Deep-Learning-Volatility
 
 
-The paper realased by Blanka Horvath; Aitor Muguruza and Mehdi Tomas is suggests to use deep learning as a speed up for pricing.
+The academic paper realased by Blanka Horvath; Aitor Muguruza and Mehdi Tomas suggests to use deep learning as a speed up for pricing.
 Neural networks efficiently approximate complex pricing functions offline, addressing calibration challenges in models with slow pricing. 
 
 In this repo we implement the paper with a c++ library to speed up the online pricing and we put the off-line learning phase in a time-laps 
