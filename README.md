@@ -23,15 +23,28 @@ We present a graph with the calibration duration.
 
 https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/a15de6ae-5365-4e7f-9d6c-f64074f1efc2
 
-## Technologies
-***
-A list of technologies used within the project:
-* : Version 12.3 
-* : Version 2.34
-* : Version 1234
-
-
 # In this repo you will find : 
+****
+The main file:
+**
+* File: main.ipynb
+* Execute the entire program using this Python script
+
+The C++ File:
+**
+* File: cppNeuralNet.cpp
+* Includes the hardcoded Neural Net and its gradient
+
+Compilation Output:
+**
+* Output File: cppNeuralNet.cp311-win_amd64.pyd
+* Facilitates easy code utilization without the need for C++ code compilation.
+
+Configuration File:
+**
+* File: setup.py
+* Used for C++ compilation if required.
+
 
 -The main file :     
     * main.ipynb                
