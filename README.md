@@ -28,10 +28,10 @@ https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/a15de6ae-53
 
 # In this repo you will find : 
 
--The main file  
--The c++ file with the hardcoding of the Neural Net and the gradient  
--The compilation output to use the code easily   
--The config file for the c++ compilation if needed  
+-The main file : main.ipynb 
+-The c++ file with the hardcoding of the Neural Net and the gradient : cppNeuralNet.cpp
+-The compilation output to use the code easily : cppNeuralNet.cp311-win_amd64.pyd
+-The config file for the c++ compilation if needed   : setup.py
 
 # The youtube video :
 ajouter le lien de la vidéo 
