@@ -22,7 +22,7 @@ https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/a15de6ae-53
 
 -The main file  
 -The c++ file with the hardcoding of the Neural Net and the gradient  
--The compilation output to use the code esealy   
+-The compilation output to use the code easily   
 -The config file for the c++ compilation if needed  
 
 # The youtube video :
