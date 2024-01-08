@@ -26,43 +26,26 @@ https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/a15de6ae-53
 # In this repo you will find : 
 ****
 The main file:
-**
+
 * File: main.ipynb
 * Execute the entire program using this Python script
 
 The C++ File:
-**
+
 * File: cppNeuralNet.cpp
 * Includes the hardcoded Neural Net and its gradient
 
 Compilation Output:
-**
+
 * Output File: cppNeuralNet.cp311-win_amd64.pyd
 * Facilitates easy code utilization without the need for C++ code compilation.
 
 Configuration File:
-**
+
 * File: setup.py
 * Used for C++ compilation if required.
 
 
--The main file :     
-    * main.ipynb                
-    * You can exectue the entire programe with this python file. 
-    
--The c++ file :          
-    * cppNeuralNet.cpp             
-    * with the hardcoding of the Neural Net and the gradient                  
-    
--The compilation output :          
-    *  cppNeuralNet.cp311-win_amd64.pyd      
-    *  to use the code easily So you don't need to compile the c++ code        
-    
--The config file :    
-    *  setup.py           
-    *  for the c++ compilation if needed     
-    
- 
 # The youtube video :
 ajouter le lien de la vidéo 
 
