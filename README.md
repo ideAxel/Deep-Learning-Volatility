@@ -29,7 +29,7 @@ https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/a15de6ae-53
 # In this repo you will find : 
 
 -The main file :     
-    * main.ipynb                
+     * main.ipynb                
     * You can exectue the entire programe with this python file. 
     
 -The c++ file :          
