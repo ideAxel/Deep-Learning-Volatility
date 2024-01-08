@@ -5,7 +5,15 @@ To-do list: Delete unnecessary files; finish the readme; put the video in public
 
 
 The academic paper realased by Blanka Horvath; Aitor Muguruza and Mehdi Tomas suggests to use deep learning as a speed up for pricing.
+
+By learning the model from model parameters to expected payoff, we can relocate the time-consuming part of calibration, which is the functional evaluation
+of prices, to an offline pre-processing of the data. For the on-line calibration part, we are only calibrating a deterministic function, which is fast. 
+
 Neural networks efficiently approximate complex pricing functions offline, addressing calibration challenges in models with slow pricing. 
+Such as Rough Volatility models like the rBergomi model.
+
+![image](https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/378c5f42-436a-4193-8430-5755b0a2df30)
+
 
 In this repo we implement the paper with a c++ library to speed up the online pricing and we put the off-line learning phase in a time-laps 
 in order to visualise it.
