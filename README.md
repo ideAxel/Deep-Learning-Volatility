@@ -23,13 +23,18 @@ We present a graph with the calibration duration.
 
 https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/a15de6ae-5365-4e7f-9d6c-f64074f1efc2
 
-
+## Technologies
+***
+A list of technologies used within the project:
+* : Version 12.3 
+* : Version 2.34
+* : Version 1234
 
 
 # In this repo you will find : 
 
 -The main file :     
-     * main.ipynb                
+    * main.ipynb                
     * You can exectue the entire programe with this python file. 
     
 -The c++ file :          
