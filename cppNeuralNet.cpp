@@ -52,9 +52,6 @@ public:
 
         return result;
     }
-    
-
-
 
 
     //Neural Network gradient Computation
@@ -84,33 +81,6 @@ public:
 
         return grad;         
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 };
