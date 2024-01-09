@@ -52,7 +52,10 @@ https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/4e0719d4-32
 # Config :
 
 Python 3.11.6
+Eigen 3.4.O
+g++.exe (Rev2, Built by MSYS2 project) 13.2.0
 
+Compilation if needed : python setup.py build_ext --inplace don't forget to relocate :'C:/Users/AD/Desktop/testcpp/eigen/eigen-3.4.0' inside the setup.py
 
 # The orginal paper  : 
 
