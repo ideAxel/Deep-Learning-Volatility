@@ -49,7 +49,9 @@ ajouter le lien de la vidéo
 https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/4e0719d4-3223-4d92-ae97-9e755f795aea
 
 
-# Config : 
+# Config :
+
+Python 3.11.6
 
 
 # The orginal paper  : 
