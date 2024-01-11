@@ -1,4 +1,3 @@
-To-do list: Delete unnecessary files; finish the readme; put the video in public
 
 
 # Deep-Learning-Volatility
