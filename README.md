@@ -40,6 +40,11 @@ Compilation Output:
 Configuration File:
 * File: setup.py
 * Used for C++ compilation if required.
+  
+Data File:   
+* File: TrainrBergomiTermStructure.txt.gz   
+* Used to train the Neural Network    
+
 
 
 # The youtube video :
