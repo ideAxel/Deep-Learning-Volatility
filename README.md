@@ -25,23 +25,23 @@ https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/a15de6ae-53
 # In this repo you will find : 
 ****
 The main file:
-* File: main.ipynb
+* File: _main.ipynb_
 * Execute the entire program using this Python script
 
 The C++ File:
-* File: cppNeuralNet.cpp
+* File: _cppNeuralNet.cpp_
 * Includes the hardcoded Neural Net and its gradient
 
 Compilation Output:
-* Output File: cppNeuralNet.cp311-win_amd64.pyd
+* Output File: _cppNeuralNet.cp311-win_amd64.pyd_
 * Facilitates easy code utilization without the need for C++ code compilation.
 
 Configuration File:
-* File: setup.py
+* File: _setup.py_
 * Used for C++ compilation if required.
   
 Data File:   
-* File: _TrainrBergomiTermStructure.txt.gz  _ 
+* File: _TrainrBergomiTermStructure.txt.gz_
 * Used to train the Neural Network    
 
 
