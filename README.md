@@ -1,6 +1,6 @@
 
 
-# Deep-LearningVolatility
+# Deep-Learning-Volatility
 
 
 The academic paper realased by Blanka Horvath; Aitor Muguruza and Mehdi Tomas suggests to use deep learning as a speed up for pricing.
