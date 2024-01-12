@@ -10,7 +10,7 @@ of prices, to an offline pre-processing of the data. For the on-line calibration
 
 Neural networks efficiently approximate complex pricing functions offline, addressing calibration challenges in models with slow pricing. 
 Such as Rough Volatility models like the rBergomi model.
-
+    
 ![image](https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/378c5f42-436a-4193-8430-5755b0a2df30)
 
 
