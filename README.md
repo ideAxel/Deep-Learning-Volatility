@@ -47,7 +47,7 @@ Data File:
 
 
 # The youtube video :
-
+https://youtu.be/nNGEPdDUXXc
 
 https://github.com/ideAxel/Deep-Learning-Volatility/assets/118754761/4e0719d4-3223-4d92-ae97-9e755f795aea
 
